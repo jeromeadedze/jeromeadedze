@@ -14,7 +14,10 @@ Let's connect and collaborate to turn ideas into reality!
 
 <p>Connect with me:</p>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerome-adedze-524a571b9/)
+
+
+
 
 
 ## ⚡ Programming and Markup Languages
