@@ -6,10 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/jeromeadedze?label=Follow&style=social)](https://github.com/jeromeadedze/?tab=follow)
 
-<p align = "left"> I'm a software engineering student, a photography enthusiast, and a music aficionado passionate about learning and growth.
-
-Join me on my journey of discovery, as I strive to expand my knowledge and create remarkable software solutions. 
-Let's connect and collaborate to turn ideas into reality!
+<p align = "left"> Exploring my curiosity and sharing what I learn along the way.
  </p>
 
 <p>Connect with me:</p>
